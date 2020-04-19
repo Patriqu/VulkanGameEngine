@@ -1,6 +1,4 @@
 #include "InputSystem.h"
-#include <SDL2\SDL_events.h>
-#include <SDL2\SDL_timer.h>
 
 bool InputSystem::EventPool()
 {
